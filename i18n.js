@@ -1,7 +1,7 @@
 // Interface texts in Bulgarian and English.
 window.I18N = {
   bg: {
-    title: "Къщите на поетите",
+    title: "Къщите на писателите",
     subtitle: "Познай къде е къщата-музей",
     lang_other: "EN",
     loading: "Зареждане…",
